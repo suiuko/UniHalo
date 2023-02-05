@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "suiu blog",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wave": "/components/wave/wave"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tm-form": "/tm-vuetify/components/tm-form/tm-form",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-switch": "/tm-vuetify/components/tm-switch/tm-switch",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

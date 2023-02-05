@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "comment-item": "/components/comment-item/comment-item",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-alerts": "/tm-vuetify/components/tm-alerts/tm-alerts"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cache-image": "/components/cache-image/cache-image",
+    "tm-tags": "/tm-vuetify/components/tm-tags/tm-tags"
+  }
+}

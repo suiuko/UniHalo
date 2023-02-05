@@ -1,0 +1,108 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tabbar/home/home",
+    "pages/tabbar/category/category",
+    "pages/tabbar/gallery/gallery",
+    "pages/tabbar/blog/blog",
+    "pages/tabbar/links/links",
+    "pages/tabbar/about/about",
+    "uni_modules/uni-upgrade-center-app/pages/upgrade-popup"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "start/start",
+        "article-detail/article-detail",
+        "blog-article-detail/blog-article-detail",
+        "love/love",
+        "love/list",
+        "love/album",
+        "love/journey",
+        "archives/archives",
+        "journal/journal",
+        "leaving/leaving",
+        "articles/articles",
+        "category-detail/category-detail",
+        "blog-category-detail/blog-category-detail",
+        "comment/comment",
+        "disclaimers/disclaimers",
+        "contact/contact",
+        "about/about",
+        "setting/setting",
+        "tags/tags",
+        "tag-detail/tag-detail"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "login/login",
+        "admin/admin",
+        "settings/settings",
+        "journal/journal",
+        "journal/journal-edit",
+        "articles/articles",
+        "articles/article-edit",
+        "articles/article-setting",
+        "category/category",
+        "tags/tags",
+        "attachment/attachment",
+        "links/links",
+        "photos/photos",
+        "photos/photos-edit",
+        "comments/comments",
+        "menus/menus",
+        "password/password",
+        "profile/profile",
+        "logs/logs"
+      ]
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "website/website"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "suiu",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "white",
+    "borderStyle": "white",
+    "color": "#303133",
+    "selectedColor": "#03a9f4",
+    "list": [
+      {
+        "iconPath": "static/tabbar/select_home.png",
+        "selectedIconPath": "static/tabbar/select_home_active.png",
+        "pagePath": "pages/tabbar/home/home",
+        "text": "首页"
+      },
+      {
+        "iconPath": "static/tabbar/select_category.png",
+        "selectedIconPath": "static/tabbar/select_category_active.png",
+        "pagePath": "pages/tabbar/category/category",
+        "text": "分类"
+      },
+      {
+        "iconPath": "static/tabbar/select_links.png",
+        "selectedIconPath": "static/tabbar/select_links_active.png",
+        "pagePath": "pages/tabbar/blog/blog",
+        "text": "拉格朗日"
+      },
+      {
+        "iconPath": "static/tabbar/select_mine.png",
+        "selectedIconPath": "static/tabbar/select_mine_active.png",
+        "pagePath": "pages/tabbar/about/about",
+        "text": "关于"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

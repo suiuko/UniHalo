@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "设置",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-form": "/tm-vuetify/components/tm-form/tm-form",
+    "tm-pickers": "/tm-vuetify/components/tm-pickers/tm-pickers",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-switch": "/tm-vuetify/components/tm-switch/tm-switch",
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet",
+    "tm-groupradio": "/tm-vuetify/components/tm-groupradio/tm-groupradio",
+    "tm-radio": "/tm-vuetify/components/tm-radio/tm-radio"
+  }
+}

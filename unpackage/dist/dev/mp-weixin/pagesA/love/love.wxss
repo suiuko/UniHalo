@@ -1,0 +1,294 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.app-page.data-v-220d4e6b {
+  width: 100vw;
+  min-height: 100vh;
+  background: linear-gradient(-45deg, rgba(247, 149, 51, 0.1), rgba(243, 112, 85, 0.1) 15%, rgba(239, 78, 123, 0.1) 30%, rgba(161, 102, 171, 0.1) 44%, rgba(80, 115, 184, 0.1) 58%, rgba(16, 152, 173, 0.1) 72%, rgba(7, 179, 155, 0.1) 86%, rgba(109, 186, 130, 0.1));
+}
+.lover-wrap.data-v-220d4e6b {
+  position: relative;
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.lover-wrap.data-v-220d4e6b::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  content: '';
+  background-color: rgba(255, 255, 255, 0.1);
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKUlEQVQImU3IMREAIAgAwJfNkQCEsH8cijjpMf6vnXlQaIiJFx+omEBfmqIEZLe2jzcAAAAASUVORK5CYII=);
+  z-index: 0;
+  -webkit-backdrop-filter: blur(4rpx);
+          backdrop-filter: blur(4rpx);
+  overflow: hidden;
+}
+.lover-wrap.data-v-220d4e6b::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -60rpx;
+  width: 100vw;
+  height: 60rpx;
+  background-image: linear-gradient(to bottom, white, rgba(255, 255, 255, 0));
+}
+.lover-wrap .lover-card.data-v-220d4e6b {
+  position: absolute;
+  left: 50%;
+  top: 58%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 12rpx;
+  z-index: 2;
+}
+.lover-wrap .lover-card .avatar.data-v-220d4e6b {
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 8rpx solid white !important;
+}
+.lover-wrap .lover-card .name.data-v-220d4e6b {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 2rpx;
+}
+.lover-wrap .lover-card .boy.data-v-220d4e6b {
+  color: #3ab8e4;
+}
+.lover-wrap .lover-card .boy .avatar.data-v-220d4e6b {
+  border-color: rgba(58, 184, 228, 0.7);
+}
+.lover-wrap .lover-card .girl.data-v-220d4e6b {
+  color: #f57ab3;
+}
+.lover-wrap .lover-card .girl .avatar.data-v-220d4e6b {
+  border-color: rgba(245, 122, 179, 0.7);
+}
+.lover-wrap .lover-card .like.data-v-220d4e6b {
+  width: 120rpx;
+  height: 120rpx;
+  -webkit-animation: likeani-data-v-220d4e6b 1s ease-in-out infinite;
+          animation: likeani-data-v-220d4e6b 1s ease-in-out infinite;
+}
+.lover-wrap .wave-image.data-v-220d4e6b {
+  width: 100%;
+  height: 120rpx;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  mix-blend-mode: screen;
+}
+.love-time-wrap.data-v-220d4e6b {
+  margin-top: 80rpx;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.love-time-wrap .title.data-v-220d4e6b {
+  font-size: 46rpx;
+  letter-spacing: 4rpx;
+  color: #333;
+  font-size: 42rpx;
+  font-weight: bold;
+}
+.love-time-wrap .content.data-v-220d4e6b {
+  margin-top: 24rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.love-time-wrap .content .text.data-v-220d4e6b {
+  font-size: 28rpx;
+}
+.love-time-wrap .content .number.data-v-220d4e6b {
+  margin: 0 8rpx;
+  font-size: 46rpx;
+  color: #f83856;
+  font-weight: bold;
+}
+.list-wrap.data-v-220d4e6b {
+  margin-top: 75rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 0 36rpx;
+}
+.list-wrap .list-item.data-v-220d4e6b {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  box-sizing: border-box;
+  padding: 28rpx 32rpx;
+  background-color: #ffffff;
+  border-radius: 50rpx;
+  margin-bottom: 32rpx;
+  box-shadow: 0rpx 4rpx 24rpx rgba(0, 0, 0, 0.03);
+}
+.list-wrap .list-item.data-v-220d4e6b:nth-child(1) {
+  -webkit-animation: listItemAni1-data-v-220d4e6b 3s ease-in-out infinite;
+          animation: listItemAni1-data-v-220d4e6b 3s ease-in-out infinite;
+}
+.list-wrap .list-item.data-v-220d4e6b:nth-child(2) {
+  -webkit-animation: listItemAni1-data-v-220d4e6b 3s ease-in-out infinite;
+          animation: listItemAni1-data-v-220d4e6b 3s ease-in-out infinite;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
+.list-wrap .list-item.data-v-220d4e6b:nth-child(3) {
+  -webkit-animation: listItemAni1-data-v-220d4e6b 3s ease-in-out infinite;
+          animation: listItemAni1-data-v-220d4e6b 3s ease-in-out infinite;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+.list-wrap .list-item .left.data-v-220d4e6b {
+  width: 120rpx;
+  height: 120rpx;
+}
+.list-wrap .list-item .left .icon.data-v-220d4e6b {
+  width: 100%;
+  height: 100%;
+}
+.list-wrap .list-item .right.data-v-220d4e6b {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  padding-left: 40rpx;
+}
+.list-wrap .list-item .right .name.data-v-220d4e6b {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333333;
+}
+.list-wrap .list-item .right .desc.data-v-220d4e6b {
+  margin-top: 8px;
+  font-size: 26rpx;
+  color: #777777;
+}
+@-webkit-keyframes likeani-data-v-220d4e6b {
+0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+25% {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+}
+50% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+75% {
+    -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+}
+100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+}
+@keyframes likeani-data-v-220d4e6b {
+0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+25% {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+}
+50% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+75% {
+    -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+}
+100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+}
+}
+@-webkit-keyframes loveTimeTitleAni-data-v-220d4e6b {
+to {
+    background-position: -200rem;
+}
+}
+@keyframes loveTimeTitleAni-data-v-220d4e6b {
+to {
+    background-position: -200rem;
+}
+}
+@-webkit-keyframes listItemAni1-data-v-220d4e6b {
+0% {
+    -webkit-transform: translateY(0rpx);
+            transform: translateY(0rpx);
+}
+50% {
+    -webkit-transform: translateY(-10rpx);
+            transform: translateY(-10rpx);
+}
+100% {
+    -webkit-transform: translateY(0rpx);
+            transform: translateY(0rpx);
+}
+}
+@keyframes listItemAni1-data-v-220d4e6b {
+0% {
+    -webkit-transform: translateY(0rpx);
+            transform: translateY(0rpx);
+}
+50% {
+    -webkit-transform: translateY(-10rpx);
+            transform: translateY(-10rpx);
+}
+100% {
+    -webkit-transform: translateY(0rpx);
+            transform: translateY(0rpx);
+}
+}
+

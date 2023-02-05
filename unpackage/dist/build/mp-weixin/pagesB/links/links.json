@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "友链管理",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-pickers": "/tm-vuetify/components/tm-pickers/tm-pickers",
+    "tm-tags": "/tm-vuetify/components/tm-tags/tm-tags",
+    "tm-tabs": "/tm-vuetify/components/tm-tabs/tm-tabs",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate"
+  }
+}

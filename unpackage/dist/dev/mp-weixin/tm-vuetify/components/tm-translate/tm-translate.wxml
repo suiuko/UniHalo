@@ -1,0 +1,1 @@
+<view hidden="{{!(show)}}" class="tm-translate data-v-70049f4d" animation="{{animationData}}"><slot></slot></view>

@@ -1,0 +1,1 @@
+<view class="tm-flop vertical-align-middle d-inline-block "><block wx:if="{{$slots.default}}"><slot></slot><scoped-slots-default value="{{displayValue}}" class="scoped-ref" bind:__l="__l"></scoped-slots-default></block><block wx:else>{{displayValue}}</block></view>

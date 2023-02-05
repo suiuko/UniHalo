@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "文章列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "article-card": "/components/article-card/article-card",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-search": "/tm-vuetify/components/tm-search/tm-search",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-tabs": "/tm-vuetify/components/tm-tabs/tm-tabs",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty"
+  }
+}

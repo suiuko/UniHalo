@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "barrage": "/components/barrage/barrage",
+    "r-canvas": "/components/r-canvas/r-canvas",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "mp-html": "/components/mp-html/components/mp-html/mp-html",
+    "comment-list": "/components/comment-list/comment-list",
+    "comment-item": "/components/comment-item/comment-item"
+  }
+}

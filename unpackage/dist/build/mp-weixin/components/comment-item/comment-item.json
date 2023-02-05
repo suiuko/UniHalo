@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-tags": "/tm-vuetify/components/tm-tags/tm-tags",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

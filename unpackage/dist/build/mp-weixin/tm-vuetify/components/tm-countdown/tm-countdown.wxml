@@ -1,0 +1,1 @@
+<view class="tm-countdown d-inline-block text-size-n"><block wx:if="{{$slots.default}}"><slot></slot><scoped-slots-default timeData="{{({data:time_data,finish:isfinish})}}" class="scoped-ref" bind:__l="__l"></scoped-slots-default></block><block wx:else>{{text}}</block></view>

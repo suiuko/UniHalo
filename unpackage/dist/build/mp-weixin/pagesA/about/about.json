@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "关于博客",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tm-grouplist": "/tm-vuetify/components/tm-grouplist/tm-grouplist",
+    "tm-listitem": "/tm-vuetify/components/tm-listitem/tm-listitem"
+  }
+}

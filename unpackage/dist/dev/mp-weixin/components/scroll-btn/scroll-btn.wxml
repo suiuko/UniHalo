@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['fnScroll']]]]}}" class="scroll-btn data-v-7ea94244" style="{{'bottom:'+(bottom)+';'}}" catchtap="__e"><block wx:if="{{_scrollTop>=180}}"><text class="iconfont icon-long-arrow-up data-v-7ea94244"></text></block><block wx:else><text class="iconfont icon-long-arrow-down data-v-7ea94244"></text></block></view>

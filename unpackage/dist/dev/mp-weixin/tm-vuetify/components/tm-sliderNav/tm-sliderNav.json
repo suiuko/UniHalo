@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-listitem": "/tm-vuetify/components/tm-listitem/tm-listitem",
+    "tm-grouplist": "/tm-vuetify/components/tm-grouplist/tm-grouplist",
+    "tm-badges": "/tm-vuetify/components/tm-badges/tm-badges"
+  }
+}

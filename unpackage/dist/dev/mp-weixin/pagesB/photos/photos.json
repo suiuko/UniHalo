@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "图库管理",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "attachment-select": "/components/attachment-select/attachment-select",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-search": "/tm-vuetify/components/tm-search/tm-search",
+    "tm-tabs": "/tm-vuetify/components/tm-tabs/tm-tabs",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-pickers-date": "/tm-vuetify/components/tm-pickersDate/tm-pickersDate",
+    "tm-pickers": "/tm-vuetify/components/tm-pickers/tm-pickers"
+  }
+}

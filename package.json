@@ -1,0 +1,23 @@
+{
+	"name": "suiublog",
+	"version": "1.0.0",
+	"description": "<p align=\"center\">\r     <img alt=\"logo\" src=\"https://tu.zgjnas.top:3443/images/2023/01/23/ZMnr.jpg\" width=\"120\" height=\"120\" style=\"margin-bottom: 10px;\">\r </p>\r <h3 align=\"center\" style=\"margin: 30px 0 30px;font-weight: bold;font-size:40px;\">suiu</h3>\r <h3 align=\"center\">suiu blog</h3>",
+	"repository": {
+		"type": "git",
+		"url": "git+https://gitee.com/ialley-workshop-open/uni-halo.git"
+	},
+	"keywords": ["suiublog"],
+	"author": "suiu",
+	"license": "AGPL-3.0",
+	"bugs": {
+		"url": "https://gitee.com/ialley-workshop-open/uni-halo/issues"
+	},
+	"homepage": "https://www.suiu.cc",
+	"devDependencies": {
+		"vue-i18n": "^9.1.10"
+	},
+	"dependencies": {
+		"uni-read-pages": "^1.0.5",
+		"uni-simple-router": "^2.0.8-beta.4"
+	}
+}

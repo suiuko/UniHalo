@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "登录",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet",
+    "tm-form": "/tm-vuetify/components/tm-form/tm-form",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

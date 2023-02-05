@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "联系博主",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

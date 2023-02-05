@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

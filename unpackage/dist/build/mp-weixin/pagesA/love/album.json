@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "恋爱相册",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cache-image": "/components/cache-image/cache-image",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "关于",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tm-grouplist": "/tm-vuetify/components/tm-grouplist/tm-grouplist",
+    "tm-listitem": "/tm-vuetify/components/tm-listitem/tm-listitem",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-more": "/tm-vuetify/components/tm-more/tm-more",
+    "tm-flop": "/tm-vuetify/components/tm-flop/tm-flop",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "wave": "/components/wave/wave"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "工作台",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tm-bottomnavigation": "/tm-vuetify/components/tm-bottomnavigation/tm-bottomnavigation"
+  }
+}

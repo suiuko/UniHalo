@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "tm-pickers-view": "/tm-vuetify/components/tm-pickersView/tm-pickersView"
+  }
+}

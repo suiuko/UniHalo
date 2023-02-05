@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons"
+  }
+}

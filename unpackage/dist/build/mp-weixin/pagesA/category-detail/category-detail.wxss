@@ -1,0 +1,1 @@
+.app-page{width:100vw;min-height:100vh;display:flex;flex-direction:column;padding:24rpx 0;background-color:#fafafd}.loading-wrap{padding:0 24rpx;min-height:100vh}.empty{height:60vh;display:flex;align-items:center;justify-content:center}

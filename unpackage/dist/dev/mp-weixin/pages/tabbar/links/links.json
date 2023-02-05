@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "友链",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cache-image": "/components/cache-image/cache-image",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-tags": "/tm-vuetify/components/tm-tags/tm-tags",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-images": "/tm-vuetify/components/tm-images/tm-images",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup"
+  }
+}

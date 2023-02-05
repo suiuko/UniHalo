@@ -1,0 +1,20 @@
+{
+  "component": true,
+  "usingComponents": {
+    "attachment-tm-input-default": "/pagesB/attachment/attachment-tm-input-default",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-search": "/tm-vuetify/components/tm-search/tm-search",
+    "tm-drop-down-menu": "/tm-vuetify/components/tm-dropDownMenu/tm-dropDownMenu",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-checkbox": "/tm-vuetify/components/tm-checkbox/tm-checkbox",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-form": "/tm-vuetify/components/tm-form/tm-form",
+    "tm-upload": "/tm-vuetify/components/tm-upload/tm-upload",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-images": "/tm-vuetify/components/tm-images/tm-images",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-action-sheet-menu": "/tm-vuetify/components/tm-actionSheetMenu/tm-actionSheetMenu"
+  }
+}

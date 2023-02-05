@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "分类详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "article-card": "/components/article-card/article-card",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty"
+  }
+}

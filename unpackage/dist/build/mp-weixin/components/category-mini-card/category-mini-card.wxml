@@ -1,0 +1,1 @@
+<view class="category-mini-card data-v-37937d4a"><cache-image class="img data-v-37937d4a" vue-id="36934422-1" height="120rpx" url="{{$root.g0}}" fileMd5="{{$root.g1}}" mode="aspectFill" bind:__l="__l"></cache-image><text class="label data-v-37937d4a">{{category.postCount+" 篇"}}</text><view class="name data-v-37937d4a">{{category.name}}</view></view>

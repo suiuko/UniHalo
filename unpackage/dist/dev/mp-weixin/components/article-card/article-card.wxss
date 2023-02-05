@@ -1,0 +1,233 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.article-card.data-v-496a90e4 {
+  display: flex;
+  box-sizing: border-box;
+  margin: 0 24rpx;
+  padding: 32rpx;
+  border-radius: 12rpx;
+  background-color: #ffff;
+  box-shadow: 0rpx 2rpx 24rpx rgba(0, 0, 0, 0.03);
+  overflow: hidden;
+  margin-bottom: 24rpx;
+}
+.article-card.home.h_row_col2.data-v-496a90e4 {
+  margin: 12rpx;
+}
+.article-card.home.h_row_col2 .left.data-v-496a90e4 {
+  width: 100%;
+  height: 200rpx;
+}
+.article-card.home.h_row_col2 .left .thumbnail.data-v-496a90e4  uni-image {
+  border-radius: 6rpx 6rpx 0 0 !important;
+}
+.article-card.home.h_row_col2 .right .title.data-v-496a90e4 {
+  display: flex;
+  align-items: center;
+  font-size: 26rpx;
+  font-weight: bold;
+}
+.article-card.home.h_row_col2 .right .title .is-top.data-v-496a90e4 {
+  height: 36rpx;
+  margin-right: 10rpx;
+  line-height: 36rpx;
+  vertical-align: 4rpx;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+.article-card.home.h_row_col2 .right .foot.data-v-496a90e4 {
+  justify-content: space-between;
+}
+.article-card.home.h_row_col2 .right .foot .create-time.data-v-496a90e4 {
+  font-size: 24rpx;
+}
+.article-card.home.h_row_col2 .right .foot .create-time .time-label.data-v-496a90e4 {
+  display: none;
+}
+.article-card.home.h_row_col2 .right .foot .visits.data-v-496a90e4 {
+  font-size: 24rpx;
+  margin-left: 0;
+}
+.article-card.home.h_row_col2.tb_text_image.data-v-496a90e4 {
+  padding: 12rpx;
+}
+.article-card.home.h_row_col2.tb_text_image .left .thumbnail.data-v-496a90e4  uni-image {
+  border-radius: 6rpx !important;
+}
+.article-card.home.h_row_col2.only_text.data-v-496a90e4 {
+  padding: 24rpx;
+}
+.article-card.home.h_row_col2.only_text .right .foot .create-time .time-label.data-v-496a90e4 {
+  display: none;
+}
+.article-card.home.h_row_col2.only_text .right .foot .visits.data-v-496a90e4 {
+  font-size: 24rpx;
+}
+.article-card.lr_text_image .left.data-v-496a90e4 {
+  order: 2;
+  padding-left: 30rpx;
+}
+.article-card.lr_text_image .right.data-v-496a90e4 {
+  order: 1;
+  padding-left: 0;
+}
+.article-card.tb_image_text.data-v-496a90e4 {
+  flex-direction: column;
+  padding: 24rpx;
+}
+.article-card.tb_image_text .left.data-v-496a90e4 {
+  width: 100%;
+  height: 340rpx;
+}
+.article-card.tb_image_text .left .thumbnail.data-v-496a90e4  uni-image {
+  border-radius: 6rpx 6rpx 0 0 !important;
+}
+.article-card.tb_image_text .right.data-v-496a90e4 {
+  padding-left: 0;
+  padding: 24rpx 0;
+  padding-bottom: 0;
+  width: 100%;
+}
+.article-card.tb_image_text .right .foot.data-v-496a90e4 {
+  justify-content: flex-start;
+}
+.article-card.tb_image_text .right .foot .create-time .time-label.data-v-496a90e4 {
+  display: inline-block;
+}
+.article-card.tb_image_text .right .foot .visits.data-v-496a90e4 {
+  margin-left: 24rpx;
+}
+.article-card.tb_text_image.data-v-496a90e4 {
+  flex-direction: column;
+}
+.article-card.tb_text_image .left.data-v-496a90e4 {
+  width: 100%;
+  height: 340rpx;
+  order: 2;
+  margin-top: 24rpx;
+}
+.article-card.tb_text_image .right.data-v-496a90e4 {
+  padding-left: 0;
+  width: 100%;
+  order: 1;
+}
+.article-card.tb_text_image .right .foot.data-v-496a90e4 {
+  justify-content: flex-start;
+}
+.article-card.tb_text_image .right .foot .create-time .time-label.data-v-496a90e4 {
+  display: inline-block;
+}
+.article-card.tb_text_image .right .foot .visits.data-v-496a90e4 {
+  margin-left: 24rpx;
+}
+.article-card.only_text.data-v-496a90e4 {
+  padding: 36rpx;
+}
+.article-card.only_text .left.data-v-496a90e4 {
+  display: none;
+}
+.article-card.only_text .right.data-v-496a90e4 {
+  padding-left: 0;
+}
+.article-card.only_text .right .content.data-v-496a90e4 {
+  margin-top: 24rpx;
+}
+.article-card.only_text .right .foot.data-v-496a90e4 {
+  justify-content: flex-start;
+  margin-top: 24rpx;
+}
+.article-card.only_text .right .foot .create-time .time-label.data-v-496a90e4 {
+  display: inline-block;
+}
+.article-card.only_text .right .foot .visits.data-v-496a90e4 {
+  margin-left: 24rpx;
+}
+.article-card .left.data-v-496a90e4 {
+  width: 240rpx;
+  height: 180rpx;
+}
+.article-card .left .thumbnail.data-v-496a90e4 {
+  width: 100%;
+  height: 100%;
+  border-radius: 12rpx;
+}
+.article-card .right.data-v-496a90e4 {
+  width: 0;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  padding-left: 30rpx;
+  box-sizing: border-box;
+}
+.article-card .right .title.data-v-496a90e4 {
+  display: flex;
+  align-items: center;
+  font-size: 30rpx;
+  color: var(--main-text-color);
+}
+.article-card .right .title .is-top.data-v-496a90e4 {
+  height: 40rpx;
+  padding: 0 12rpx;
+  margin-right: 10rpx;
+  line-height: 40rpx;
+  font-size: 24rpx;
+  white-space: nowrap;
+  vertical-align: 4rpx;
+  color: #fff;
+  border-radius: 6rpx 12rpx;
+  box-shadow: none !important;
+}
+.article-card .right .title-text.data-v-496a90e4 {
+  color: #303133;
+}
+.article-card .right .content.data-v-496a90e4 {
+  display: -webkit-box;
+  font-size: 26rpx;
+  color: #909399;
+  height: 80rpx;
+  margin-top: 14rpx;
+  line-height: 42rpx;
+}
+.article-card .right .foot.data-v-496a90e4 {
+  display: flex;
+  font-size: 24rpx;
+  justify-content: space-between;
+  align-items: center;
+  color: #909399;
+  margin-top: 18rpx;
+}
+.article-card .right .foot .create-time.data-v-496a90e4 {
+  font-size: 26rpx;
+}
+.article-card .right .foot .create-time .time-label.data-v-496a90e4 {
+  display: none;
+}
+.article-card .right .foot .visits .number.data-v-496a90e4 {
+  padding: 0 6rpx;
+  font-size: 26rpx;
+}
+

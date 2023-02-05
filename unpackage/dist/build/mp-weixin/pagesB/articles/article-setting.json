@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "文章设置",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "attachment-select": "/components/attachment-select/attachment-select",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-tabs": "/tm-vuetify/components/tm-tabs/tm-tabs",
+    "tm-form": "/tm-vuetify/components/tm-form/tm-form",
+    "tm-groupcheckbox": "/tm-vuetify/components/tm-groupcheckbox/tm-groupcheckbox",
+    "tm-checkbox": "/tm-vuetify/components/tm-checkbox/tm-checkbox",
+    "tm-pickers": "/tm-vuetify/components/tm-pickers/tm-pickers",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-pickers-date": "/tm-vuetify/components/tm-pickersDate/tm-pickersDate",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-switch": "/tm-vuetify/components/tm-switch/tm-switch"
+  }
+}

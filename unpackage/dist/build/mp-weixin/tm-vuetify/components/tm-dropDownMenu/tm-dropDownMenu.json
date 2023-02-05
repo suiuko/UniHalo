@@ -1,0 +1,17 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-pickers": "/tm-vuetify/components/tm-pickers/tm-pickers",
+    "tm-row": "/tm-vuetify/components/tm-row/tm-row",
+    "tm-col": "/tm-vuetify/components/tm-col/tm-col",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-groupcheckbox": "/tm-vuetify/components/tm-groupcheckbox/tm-groupcheckbox",
+    "tm-checkbox": "/tm-vuetify/components/tm-checkbox/tm-checkbox",
+    "tm-groupradio": "/tm-vuetify/components/tm-groupradio/tm-groupradio",
+    "tm-radio": "/tm-vuetify/components/tm-radio/tm-radio",
+    "tm-slider": "/tm-vuetify/components/tm-slider/tm-slider",
+    "tm-listitem": "/tm-vuetify/components/tm-listitem/tm-listitem"
+  }
+}

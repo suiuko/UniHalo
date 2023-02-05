@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cache-image": "/components/cache-image/cache-image",
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-pagination": "/tm-vuetify/components/tm-pagination/tm-pagination",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

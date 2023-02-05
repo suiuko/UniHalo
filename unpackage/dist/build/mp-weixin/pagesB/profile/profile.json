@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "attachment-select": "/components/attachment-select/attachment-select",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-form": "/tm-vuetify/components/tm-form/tm-form",
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "tm-images": "/tm-vuetify/components/tm-images/tm-images",
+    "tm-action-sheet-menu": "/tm-vuetify/components/tm-actionSheetMenu/tm-actionSheetMenu",
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet"
+  }
+}

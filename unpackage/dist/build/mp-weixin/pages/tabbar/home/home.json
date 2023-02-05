@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "e-swiper": "/components/e-swiper/e-swiper",
+    "category-mini-card": "/components/category-mini-card/category-mini-card",
+    "article-card": "/components/article-card/article-card",
+    "tm-menubars": "/tm-vuetify/components/tm-menubars/tm-menubars",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty"
+  }
+}

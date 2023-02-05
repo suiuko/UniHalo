@@ -1,0 +1,31 @@
+
+.tm-pickersDateView .tm-pickersCView-item-h {
+	height: 50px;
+	background-color: rgba(0, 0, 0, 0.03);
+	width: calc(100% - 10px);
+	margin-left: 5px;
+	border-radius: 20rpx;
+	border: none;
+}
+.tm-pickersDateView .tm-pickersCView-item-h::after,
+.tm-pickersDateView .tm-pickersCView-item-h::before {
+	border: none;
+}
+.tm-pickersDateView .tm-pickersCView-wk {
+	position: relative;
+	width: 750rpx;
+	height: 500rpx;
+}
+.tm-pickersDateView .tm-pickersCView-wk .tm-pickersCView-item.bk {
+	opacity: 0.4;
+}
+.tm-pickersDateView .tm-pickersCView-wk .tm-pickersCView-item.active {
+	opacity: 1;
+	border-radius: 20rpx;
+	border: none;
+	background-color: rgba(0, 0, 0, 0.06);
+}
+.tm-pickersDateView .tm-pickersCView-wk .tm-pickersCView-item.active.bk {
+	background-color: rgba(255, 255, 255, 0.06);
+}
+

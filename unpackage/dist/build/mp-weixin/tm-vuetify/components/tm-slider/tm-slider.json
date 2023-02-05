@@ -1,0 +1,11 @@
+{
+  "componentGenerics": {
+    "scoped-slots-left": true,
+    "scoped-slots-tips": true,
+    "scoped-slots-right": true
+  },
+  "component": true,
+  "usingComponents": {
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons"
+  }
+}

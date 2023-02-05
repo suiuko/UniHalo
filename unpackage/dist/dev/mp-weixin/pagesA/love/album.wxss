@@ -1,0 +1,196 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.app-page.data-v-f49f9f74 {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 24rpx 0;
+  padding-bottom: 144rpx;
+  background: linear-gradient(-135deg, rgba(247, 149, 51, 0.1), rgba(243, 112, 85, 0.1) 15%, rgba(239, 78, 123, 0.1) 30%, rgba(161, 102, 171, 0.1) 44%, rgba(80, 115, 184, 0.1) 58%, rgba(16, 152, 173, 0.1) 72%, rgba(7, 179, 155, 0.1) 86%, rgba(109, 186, 130, 0.1));
+}
+.loading-wrap.data-v-f49f9f74 {
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 36rpx;
+}
+.loading-wrap.data-v-f49f9f74  .tm-icons {
+  margin-right: -20rpx;
+}
+.e-loading-icon.data-v-f49f9f74 {
+  font-size: 120rpx;
+  color: #56bbf9;
+}
+.loadig-text.data-v-f49f9f74 {
+  margin-top: 28rpx;
+  font-size: 28rpx;
+  color: #56bbf9;
+}
+.content-empty.data-v-f49f9f74 {
+  width: 100%;
+  height: 60vh;
+}
+.swiper-album.data-v-f49f9f74 {
+  width: 100vw;
+  height: calc(100vh - 24rpx - 144rpx);
+}
+.swiper-album-item.data-v-f49f9f74 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 36rpx;
+  padding-bottom: 60rpx;
+}
+.scroll-wrap.data-v-f49f9f74 {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 36rpx;
+  background-color: #ffffff;
+  border-radius: 12rpx;
+  box-shadow: 0rpx 4rpx 24rpx rgba(0, 0, 0, 0.03);
+}
+.card.data-v-f49f9f74 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  border-radius: 12rpx;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  overflow: hidden;
+  overflow-y: auto;
+}
+.card.data-v-f49f9f74  .cache-image {
+  height: initial !important;
+}
+.card-image.data-v-f49f9f74 {
+  width: 100%;
+  height: initial !important;
+  border-radius: 12rpx;
+}
+.card-desc.data-v-f49f9f74 {
+  margin-top: 24rpx;
+  line-height: 1.6;
+  font-size: 30rpx;
+  color: rgba(26, 26, 26, 0.9);
+}
+.card-desc.is-empty.data-v-f49f9f74 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  font-size: 32rpx;
+}
+.tabbar.data-v-f49f9f74 {
+  width: 90vw;
+  position: fixed;
+  left: 50%;
+  bottom: 40rpx;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  border-radius: 25rpx;
+  box-sizing: border-box;
+  padding: 24rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  color: #333;
+  box-shadow: 0rpx 4rpx 24rpx rgba(0, 0, 0, 0.05);
+}
+.tabbar .refresh.data-v-f49f9f74 {
+  -webkit-animation: refreshAni-data-v-f49f9f74 6s ease-in-out infinite;
+          animation: refreshAni-data-v-f49f9f74 6s ease-in-out infinite;
+  color: #56bbf9;
+}
+.tabbar .refresh-heart.data-v-f49f9f74 {
+  font-size: 42rpx;
+  color: inherit;
+  margin: 0 6rpx;
+}
+.tabbar .refresh-text.data-v-f49f9f74 {
+  font-size: 24rpx;
+}
+.tabbar .pre.data-v-f49f9f74 {
+  color: #56bbf9;
+  transition: -webkit-transform 0.1s ease-in-out;
+  transition: transform 0.1s ease-in-out;
+  transition: transform 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
+}
+.tabbar .pre.data-v-f49f9f74:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+.tabbar .pre .text.data-v-f49f9f74 {
+  padding-left: 12rpx;
+}
+.tabbar .next.data-v-f49f9f74 {
+  color: #f88ca2;
+  transition: -webkit-transform 0.1s ease-in-out;
+  transition: transform 0.1s ease-in-out;
+  transition: transform 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
+}
+.tabbar .next.data-v-f49f9f74:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+.tabbar .next .text.data-v-f49f9f74 {
+  padding-right: 12rpx;
+}
+@-webkit-keyframes refreshAni-data-v-f49f9f74 {
+0% {
+    color: #f88ca2;
+}
+50% {
+    color: #56bbf9;
+}
+100% {
+    color: #f88ca2;
+}
+}
+@keyframes refreshAni-data-v-f49f9f74 {
+0% {
+    color: #f88ca2;
+}
+50% {
+    color: #56bbf9;
+}
+100% {
+    color: #f88ca2;
+}
+}
+

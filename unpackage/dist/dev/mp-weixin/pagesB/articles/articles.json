@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "文章管理",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-search": "/tm-vuetify/components/tm-search/tm-search",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-tabs": "/tm-vuetify/components/tm-tabs/tm-tabs",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-tags": "/tm-vuetify/components/tm-tags/tm-tags",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-pickers": "/tm-vuetify/components/tm-pickers/tm-pickers"
+  }
+}

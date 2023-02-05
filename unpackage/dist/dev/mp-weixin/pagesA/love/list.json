@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "恋爱清单",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "scroll-btn": "/components/scroll-btn/scroll-btn"
+  }
+}

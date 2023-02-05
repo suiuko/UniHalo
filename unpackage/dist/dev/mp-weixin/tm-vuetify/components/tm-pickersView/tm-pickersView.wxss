@@ -1,0 +1,30 @@
+
+.tm-pickersView .tm-pickersBView-item-h{
+	height: 50px;
+	background-color: rgba(0,0,0,0.03);
+	width: calc(100% - 10px);
+	margin-left: 5px;
+	border-radius: 20rpx;
+	border: none;
+}
+.tm-pickersView .tm-pickersBView-item-h::after,.tm-pickersView .tm-pickersBView-item-h::before{
+	border: none;
+}
+.tm-pickersView .tm-pickersBView-wk{
+	position: relative;
+	width: 750rpx;
+	height: 500rpx;
+}
+.tm-pickersView .tm-pickersBView-wk .tm-pickersBView-item.bk{
+	opacity: 0.4;
+}
+.tm-pickersView .tm-pickersBView-wk .tm-pickersBView-item.active{
+	opacity: 1;
+	border-radius: 20rpx;
+	border: none;
+	background-color: rgba(0,0,0,0.06);
+}
+.tm-pickersView .tm-pickersBView-wk .tm-pickersBView-item.active.bk{
+	background-color: rgba(255,255,255,0.06);
+}
+

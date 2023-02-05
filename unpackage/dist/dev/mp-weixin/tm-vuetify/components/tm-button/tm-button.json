@@ -1,0 +1,10 @@
+{
+  "componentGenerics": {
+    "scoped-slots-icon": true,
+    "scoped-slots-default": true
+  },
+  "component": true,
+  "usingComponents": {
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="{{['tm--row','data-v-38b8be8d',preatClass]}}" gutter="{{gutter}}" data-event-opts="{{[['tap',[['$emit',['click','$event']]]]]}}" bindtap="__e"><view class="{{['tm--row--body','data-v-38b8be8d',customClass]}}" style="{{(style)}}"><slot></slot></view></view>

@@ -1,0 +1,9 @@
+{
+  "componentGenerics": {
+    "scoped-slots-default": true
+  },
+  "component": true,
+  "usingComponents": {
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate"
+  }
+}

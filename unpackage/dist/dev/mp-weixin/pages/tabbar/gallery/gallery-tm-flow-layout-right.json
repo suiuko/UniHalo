@@ -1,0 +1,16 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gallery-tm-flow-layout-left": "/pages/tabbar/gallery/gallery-tm-flow-layout-left",
+    "gallery-tm-flow-layout-right": "/pages/tabbar/gallery/gallery-tm-flow-layout-right",
+    "tm-skeleton": "/tm-vuetify/components/tm-skeleton/tm-skeleton",
+    "tm-translate": "/tm-vuetify/components/tm-translate/tm-translate",
+    "tm-flotbutton": "/tm-vuetify/components/tm-flotbutton/tm-flotbutton",
+    "tm-tags": "/tm-vuetify/components/tm-tags/tm-tags",
+    "tm-empty": "/tm-vuetify/components/tm-empty/tm-empty",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "tm-images": "/tm-vuetify/components/tm-images/tm-images",
+    "tm-flow-layout": "/tm-vuetify/components/tm-flowLayout/tm-flowLayout",
+    "tm-tabs": "/tm-vuetify/components/tm-tabs/tm-tabs"
+  }
+}

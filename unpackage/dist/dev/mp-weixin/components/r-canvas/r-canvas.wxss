@@ -1,0 +1,13 @@
+
+.r-canvas{
+	-webkit-transform-origin: 0 0;
+	        transform-origin: 0 0;
+}
+.r-canvas-component{
+	overflow: hidden;
+}
+.r-canvas-component.hidden{
+	position: fixed;
+	top:-5000rpx;
+}
+

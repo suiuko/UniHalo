@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我们的故事",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "scroll-btn": "/components/scroll-btn/scroll-btn"
+  }
+}
